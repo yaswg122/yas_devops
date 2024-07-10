@@ -18,7 +18,7 @@ jobs:
     - name: run a multi-line script
       run: 
         echo add other things,
-        echo test, 
+        echo test.
     
 
      
